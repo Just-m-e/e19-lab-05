@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-scan-publish:
+  build-scan-publish: 
     runs-on: ubuntu-latest
 
     steps:
